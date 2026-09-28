@@ -1,8 +1,11 @@
 # Componente Visual Reutilizable
 
-**Asignatura:**  Programación Web  
+**Asignatura:** Programación Web  
+ 
 **Grupo:**  7SD
+
 **Alumno:** Bautista Centeno Francisco Elias | 23160852
+
 **Docente:** Martínez Nieto Adelina   
 
 
