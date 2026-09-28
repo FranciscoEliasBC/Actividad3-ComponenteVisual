@@ -117,3 +117,23 @@ Modal.open({
 ## Componente Funcionando 
 
 Página principal
+
+![image alt]( https://github.com/FranciscoEliasBC/Actividad3-ComponenteVisual/blob/825ff9eab8e6ff08e08394d4cba05ae977093fe4/img/uno.png )
+
+Modal informativa
+
+![image alt]( https://github.com/FranciscoEliasBC/Actividad3-ComponenteVisual/blob/825ff9eab8e6ff08e08394d4cba05ae977093fe4/img/dos.png )
+
+Modal de confirmación
+
+![image alt]( https://github.com/FranciscoEliasBC/Actividad3-ComponenteVisual/blob/825ff9eab8e6ff08e08394d4cba05ae977093fe4/img/cuatro.png
+ )
+
+ Modal con HTML personalizado
+
+ ![image alt]( https://github.com/FranciscoEliasBC/Actividad3-ComponenteVisual/blob/825ff9eab8e6ff08e08394d4cba05ae977093fe4/img/cinco.png
+ )
+
+ ## Video 
+
+ link: https://youtu.be/o6ZfuzVFP10 
