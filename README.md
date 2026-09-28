@@ -114,3 +114,6 @@ Modal.open({
     `
 });
 ```
+## Componente Funcionando 
+
+Página principal
